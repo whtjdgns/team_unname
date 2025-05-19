@@ -1,0 +1,46 @@
+# 빌드된 바이너리 파일 및 중간 파일
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 설정 관련 개인 정보
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# 로그 파일
+*.log
+
+# 빌드 출력물
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+
+# 임시 파일
+*.tmp
+*.temp
+
+# Thumbnails (에디터 미리보기 이미지)
+*_Thumbnail.png
+
+# Mac OS / Windows 시스템 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio 관련
+.vscode/
+.vs/
+
+# 파일 락 방지
+*.lock
+
+# 언리얼 엔진 프로젝트 파일은 꼭 추적 대상에 포함해야 함!
+!*.uproject
