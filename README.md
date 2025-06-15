@@ -43,9 +43,8 @@
 
 ## 시연 유트브 링크 
 
-<div align="left">
-  <hr style="border-left: 2px solid #3a3f47; height: 150px; width: 0; margin: 10px 0;">
-</div>
+<div style="width:2px; height:150px; background-color:#3a3f47; margin-left:10px;"></div>
+
 
 ## 멤버들 느낀점 및 역활 
 - 조성훈  
