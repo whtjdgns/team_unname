@@ -11,7 +11,7 @@
 
 |![Image](https://github.com/user-attachments/assets/6f47dfe2-8a9c-443f-8a7a-c3bc3f31ebc1)|![Image](https://github.com/user-attachments/assets/f6229af8-3f92-4384-98b2-dcc210f1bb94)| 
 |----------|----------|
-| 게임의 컨셉아트   | 진행 아트  |
+| 게임의 컨셉아트   | 게임 진행 아트  |
 
 - **게임 시작 시스템**  
   ▶게임 시작 후 기초적인 치어와/자원 지급 
