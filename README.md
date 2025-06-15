@@ -43,11 +43,7 @@
 
 ## 시연 유트브 링크 
 
-<div style="width:2px; height:150px; background-color:#3a3f47; margin-left:10px;"></div>
-
-
-## 멤버들 느낀점 및 역활 
-- 조성훈  
+<div style="width:2px; height:150px; background-color:#3a3f47; margin-left:10px;"> - 조성훈  
   - 역활 : 전체적인 기획, 프로젝트 통합, 양식장 등의 메인기능 
   - 느낀점 : 
 - 신승완
@@ -56,3 +52,7 @@
 - 이문규
   - 역활 : UI 제작 , 게임 오브젝트 에셋 제작 
   - 느낀점 : 
+</div>
+
+
+## 멤버들 느낀점 및 역활 
