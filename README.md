@@ -43,6 +43,10 @@
 
 ## 시연 유트브 링크 
 
+<div align="left">
+  <hr style="border-left: 2px solid #3a3f47; height: 150px; width: 0; margin: 10px 0;">
+</div>
+
 ## 멤버들 느낀점 및 역활 
 - 조성훈  
   - 역활 : 전체적인 기획, 프로젝트 통합, 양식장 등의 메인기능 
