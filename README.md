@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/fd09add9-6afc-44cc-bb45-4e357ca19ef8)
+![Image](https://github.com/user-attachments/assets/553d95ba-2af2-47ef-84fe-c8ebfe59ecb0)
 # team_unname #팀명미정
 
 # 졸작 게임 개발을 하는 팀 
