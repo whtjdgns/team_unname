@@ -1,5 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/2ad3a2ca-b176-4ec7-9282-f8572d2a48dc)
 # 2025 졸작 프로젝트 양식장 시뮬레이터 
+<p align="center"> 온갖 트롤과 게임하여 얻은 불편으로부터 힐링해보자. </p>
 
  ## 개요 
 - 프로젝트 이름 : 양식장시뮬레이터 
