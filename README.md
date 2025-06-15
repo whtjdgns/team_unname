@@ -36,7 +36,7 @@
 | W,A,S,D | E | CTRL | B | F | I |  
 
 
-##프로젝트 PPT
+## 프로젝트 PPT
 
 [프로젝트 계획서 PPT](./프로젝트_계획서_ppt.pptx)  
 프로젝트 계획 PPT 
