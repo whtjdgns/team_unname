@@ -45,7 +45,7 @@
 
 [![Video Label](http://img.youtube.com/vi/pNeoo6B2bHY/0.jpg)](https://youtu.be/pNeoo6B2bHY)
 
-## 멤버들 느낀점 및 역활 
+## 멤버들 역활 
  - 조성훈  
    - 역활 : 전체적인 기획, 프로젝트 통합, 양식장 등의 메인기능 
 - 신승완
