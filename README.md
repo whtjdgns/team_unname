@@ -43,7 +43,7 @@
 
 ## 시연 유트브 링크 
 
-
+[![Video Label](http://img.youtube.com/vi/pNeoo6B2bHY/0.jpg)](https://youtu.be/pNeoo6B2bHY)
 
 ## 멤버들 느낀점 및 역활 
  - 조성훈  
