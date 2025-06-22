@@ -39,7 +39,7 @@
 ## 프로젝트 PPT
 
 [프로젝트 계획서 PPT](./프로젝트_계획서_ppt.pptx)  
-프로젝트 계획 PPT 
+[프로젝트 계획 PPT](./unnamed_최종_발표_PPT_git.pptx)
 
 ## 시연 유트브 링크 
 
