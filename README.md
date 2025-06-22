@@ -42,8 +42,8 @@
 [프로젝트 계획 PPT](./unnamed_최종_발표_PPT_git.pptx)
 
 ## 시연 유트브 링크 
-https://youtu.be/pNeoo6B2bHY
 
+<iframe width="956" height="538" src="https://youtu.be/pNeoo6B2bHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 멤버들 느낀점 및 역활 
  - 조성훈  
