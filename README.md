@@ -41,7 +41,7 @@
 [프로젝트 계획서 PPT](./프로젝트_계획서_ppt.pptx)  
 [프로젝트 최종발표 PPT](./unnamed_최종_발표_PPT_git.pptx)
 
-## 시연 유트브 링크 
+## 시연 유튜브 링크 
 
 [![Video Label](http://img.youtube.com/vi/pNeoo6B2bHY/0.jpg)](https://youtu.be/pNeoo6B2bHY)
 
