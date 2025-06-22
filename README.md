@@ -42,7 +42,7 @@
 [프로젝트 계획 PPT](./unnamed_최종_발표_PPT_git.pptx)
 
 ## 시연 유트브 링크 
-
+https://youtu.be/pNeoo6B2bHY
 
 
 ## 멤버들 느낀점 및 역활 
